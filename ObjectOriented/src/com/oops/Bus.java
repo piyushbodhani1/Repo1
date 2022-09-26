@@ -1,6 +1,6 @@
 package com.oops;
 
-public class Bus extends Vehicle{
+public class Bus extends Truck{
 
 	@Override
 	int NoOfTyer() {
