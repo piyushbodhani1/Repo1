@@ -43,7 +43,7 @@ public class Train implements RatingsOfTheTrain , PantryInTheTrain{
 		// TODO Auto-generated method stub
 		return "High";
 	}
-	public static void main(String a[])
+	public static void main(String args[])
 	{
 		Train t = new Train();
 		t.luxry();
