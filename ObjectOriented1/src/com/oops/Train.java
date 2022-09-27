@@ -46,7 +46,7 @@ public class Train implements RatingsOfTheTrain , PantryInTheTrain{
 	public static void main(String args[])
 	{
 		Train t = new Train();
-		t.luxry();
+		System.out.println(t.luxry());
 		t.hygineratins();
 		t.pantryFoods();
 		t.status();
