@@ -1,5 +1,9 @@
 package com.kpi.overrideandoverloading;
 
+/**
+ * @author PiyushBodhani
+ *   Complile Time polymorphism
+ */
 public class Executing_overloading {
    public int method1(int a)
    {
