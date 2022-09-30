@@ -2,7 +2,7 @@ package com.kpi.collections_excep_junit;
 
 import java.util.Scanner;
 
-public class Addition {
+public class Addition1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
